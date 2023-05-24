@@ -204,9 +204,7 @@ class PingTask(private val domain: String, private val callback: PingCallback) :
 
 ```
 
-***
-
-<p align = "Accounts</p>
+<p align = "Accounts"</p>
 
 ```kotlin
 
@@ -223,7 +221,7 @@ var accountList = listOf(
 
 ***
 
-![Screenshot]https://github.com/Pupkapus/Android_StudioEmail/blob/main/Screenshot_1.png)
+![Screenshot](https://github.com/Pupkapus/Android_StudioEmail/blob/main/Screenshot_1.png)
 
 ***
 <p align = "center" >ВЫВОД</p>
