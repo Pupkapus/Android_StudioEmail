@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">lab7</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="sign_with">OR</string>
+    <string name="success_login">Success login</string>
+    <string name="fail_login">Incorrect login or password</string>
+    <string name="empty_login">Write your username</string>
+    <string name="empty_password">Write your password</string>
+    <string name="top_text">Already Have an Account?</string>
+    <string name="error_change_password">Email isn\'t exist</string>
+    <string name="success_change">Message with link for change password send on your email</string>
+    <string name="incorrect_email">Incorrect email!</string>
+    <string name="low_password">Few characters entered</string>
+    <string name="high_password">Too many characters entered</string>
+    <string name="empty">This input is empty</string>
+</resources>
